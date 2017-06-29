@@ -1,0 +1,32 @@
+// Place all the styles related to the home controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+h1 {
+  color: #41292C;
+  font-family: 'Covered By Your Grace', sans-serif;
+  font-size: 60px;
+  line-height: 76px;
+  margin: 0;
+  position: relative;
+  text-align: center;
+  top: 20%;
+   background-image: url(http://lh3.googleusercontent.com/OOBn4wU-SrTCl2uHHfqY3Xkgy8-SU_tXTmsikUc1usJ44kr2033tq0FRLoJILrlM0oRdczNl8Yx_Qf53YWZUJqEGaz9S2rpTng=s640-l65);
+  background-position: center center;
+  height: 300px;
+}
+
+.main {
+  font-family: 'Covered By Your Grace', sans-serif;
+  position: relative;
+  text-align: center;
+  font-size: 30px;
+  border-radius:10px;
+  border:2px solid #48D1CC;
+  border-width: 15px;
+  margin: 60px auto;
+  padding: 30px 0px 30px 0px;
+  width: 90%;
+}
+
+
